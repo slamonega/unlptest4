@@ -84,8 +84,8 @@
         <param name="ios-package" onload="true" value="CDVStatusBar" />
     </feature>
     <icon src="resources/android/icon/drawable-xhdpi-icon.png" />
-    <plugin name="cordova-plugin-stripe" spec="^1.5.3" />
-    <plugin name="cordova-plugin-x-socialsharing" spec="~5.1.7" />
+   
+  
     <plugin name="cordova-plugin-geolocation" spec="~2.4.2">
         <variable name="Default delivery point detection" value="Geolocation used for development purposes" />
     </plugin>
@@ -96,7 +96,7 @@
     <plugin name="cordova-plugin-splashscreen" spec="^4.0.3" />
     <plugin name="cordova-sqlite-storage" spec="^2.0.4" />
     <plugin name="onesignal-cordova-plugin" spec="2.1.0" />
-    <plugin name="com.paypal.cordova.mobilesdk" spec="^3.5.0" />
+
     <plugin name="cordova-custom-config" spec="^5.0.2" />
     <engine name="android" spec="6.4.0" />
 </widget>
