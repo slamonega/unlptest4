@@ -84,8 +84,8 @@
         <param name="ios-package" onload="true" value="CDVStatusBar" />
     </feature>
     <icon src="resources/android/icon/drawable-xhdpi-icon.png" />
-    <plugin name="cordova-plugin-stripe" spec="^1.5.3" />
-  
+   
+    <plugin name="cordova-plugin-x-socialsharing" spec="~5.1.7" />
     <plugin name="cordova-plugin-geolocation" spec="~2.4.2">
         <variable name="Default delivery point detection" value=" " />
     </plugin>
